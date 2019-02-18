@@ -1,2 +1,2 @@
-# prjCalculator
-Functional calculator made @ ETEC Fernando Prestes
+#Functional-Calculator
+Functional calculator made @ ETEC Fernando Prestes using C#
