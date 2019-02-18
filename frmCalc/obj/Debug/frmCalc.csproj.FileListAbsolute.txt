@@ -1,0 +1,117 @@
+G:\2°Modulo\frmCalc\frmCalc\bin\Debug\frmCalc.exe.config
+G:\2°Modulo\frmCalc\frmCalc\bin\Debug\frmCalc.exe
+G:\2°Modulo\frmCalc\frmCalc\bin\Debug\frmCalc.pdb
+G:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.csprojResolveAssemblyReference.cache
+G:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.Properties.Resources.resources
+G:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.GenerateResource.Cache
+G:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.exe
+G:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.pdb
+C:\Users\giova\Desktop\frmCalc\frmCalc\bin\Debug\frmCalc.exe.config
+C:\Users\giova\Desktop\frmCalc\frmCalc\bin\Debug\frmCalc.exe
+C:\Users\giova\Desktop\frmCalc\frmCalc\bin\Debug\frmCalc.pdb
+C:\Users\giova\Desktop\frmCalc\frmCalc\obj\Debug\frmCalc.csprojResolveAssemblyReference.cache
+C:\Users\giova\Desktop\frmCalc\frmCalc\obj\Debug\frmCalc.Form1.resources
+C:\Users\giova\Desktop\frmCalc\frmCalc\obj\Debug\frmCalc.Properties.Resources.resources
+C:\Users\giova\Desktop\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.GenerateResource.cache
+C:\Users\giova\Desktop\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\frmCalc\frmCalc\obj\Debug\frmCalc.exe
+C:\Users\giova\Desktop\frmCalc\frmCalc\obj\Debug\frmCalc.pdb
+C:\Users\giova\Desktop\etec\frmCalc\frmCalc\bin\Debug\frmCalc.exe.config
+C:\Users\giova\Desktop\etec\frmCalc\frmCalc\bin\Debug\frmCalc.exe
+C:\Users\giova\Desktop\etec\frmCalc\frmCalc\bin\Debug\frmCalc.pdb
+C:\Users\giova\Desktop\etec\frmCalc\frmCalc\obj\Debug\frmCalc.csprojResolveAssemblyReference.cache
+C:\Users\giova\Desktop\etec\frmCalc\frmCalc\obj\Debug\frmCalc.Form1.resources
+C:\Users\giova\Desktop\etec\frmCalc\frmCalc\obj\Debug\frmCalc.FormMenu.resources
+C:\Users\giova\Desktop\etec\frmCalc\frmCalc\obj\Debug\frmCalc.Properties.Resources.resources
+C:\Users\giova\Desktop\etec\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.GenerateResource.cache
+C:\Users\giova\Desktop\etec\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\etec\frmCalc\frmCalc\obj\Debug\frmCalc.exe
+C:\Users\giova\Desktop\etec\frmCalc\frmCalc\obj\Debug\frmCalc.pdb
+G:\frmCalc\frmCalc\bin\Debug\frmCalc.exe.config
+G:\frmCalc\frmCalc\obj\Debug\frmCalc.exe
+G:\frmCalc\frmCalc\obj\Debug\frmCalc.pdb
+G:\frmCalc\frmCalc\bin\Debug\frmCalc.exe
+G:\frmCalc\frmCalc\bin\Debug\frmCalc.pdb
+G:\frmCalc\frmCalc\obj\Debug\frmCalc.csprojResolveAssemblyReference.cache
+G:\frmCalc\frmCalc\obj\Debug\frmCalc.Form1.resources
+G:\frmCalc\frmCalc\obj\Debug\frmCalc.FormMenu.resources
+G:\frmCalc\frmCalc\obj\Debug\frmCalc.Properties.Resources.resources
+G:\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.GenerateResource.Cache
+G:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.frmCalculadora.resources
+G:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.FormMenu.resources
+G:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.frmRadial.resources
+G:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.frmTradicional.resources
+D:\2°Modulo\frmCalc\frmCalc\bin\Debug\frmCalc.exe.config
+D:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.exe
+D:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.pdb
+D:\2°Modulo\frmCalc\frmCalc\bin\Debug\frmCalc.exe
+D:\2°Modulo\frmCalc\frmCalc\bin\Debug\frmCalc.pdb
+D:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.csprojResolveAssemblyReference.cache
+D:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.frmCalculadora.resources
+D:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.FormMenu.resources
+D:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.frmRadial.resources
+D:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.frmTradicional.resources
+D:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.Properties.Resources.resources
+D:\2°Modulo\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.GenerateResource.Cache
+G:\2°Modulo\DS I\frmCalc\frmCalc\bin\Debug\frmCalc.exe.config
+G:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.exe
+G:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.pdb
+G:\2°Modulo\DS I\frmCalc\frmCalc\bin\Debug\frmCalc.exe
+G:\2°Modulo\DS I\frmCalc\frmCalc\bin\Debug\frmCalc.pdb
+G:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.csprojResolveAssemblyReference.cache
+G:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.FormMenu.resources
+G:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.frmRadial.resources
+G:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.frmTradicional.resources
+G:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.Properties.Resources.resources
+G:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.GenerateResource.Cache
+D:\2°Modulo\DS I\frmCalc\frmCalc\bin\Debug\frmCalc.exe.config
+D:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.exe
+D:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.pdb
+D:\2°Modulo\DS I\frmCalc\frmCalc\bin\Debug\frmCalc.exe
+D:\2°Modulo\DS I\frmCalc\frmCalc\bin\Debug\frmCalc.pdb
+D:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.csprojResolveAssemblyReference.cache
+D:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.frmBotao.resources
+D:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.FormMenu.resources
+D:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.frmRadial.resources
+D:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.frmTradicional.resources
+D:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.Properties.Resources.resources
+D:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.GenerateResource.Cache
+G:\2°Modulo\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.frmBotao.resources
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\bin\Debug\frmCalc.exe.config
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\bin\Debug\frmCalc.exe
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\bin\Debug\frmCalc.pdb
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.csprojResolveAssemblyReference.cache
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.frmBotao.resources
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.FormMenu.resources
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.frmRadial.resources
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.frmTradicional.resources
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.Properties.Resources.resources
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.GenerateResource.cache
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.exe
+C:\Users\giova\Desktop\DS I\frmCalc\frmCalc\obj\Debug\frmCalc.pdb
+D:\DS I (usar essa)\frmCalc\frmCalc\bin\Debug\frmCalc.exe.config
+D:\DS I (usar essa)\frmCalc\frmCalc\bin\Debug\frmCalc.exe
+D:\DS I (usar essa)\frmCalc\frmCalc\bin\Debug\frmCalc.pdb
+D:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.csprojResolveAssemblyReference.cache
+D:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.frmBotao.resources
+D:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.FormMenu.resources
+D:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.frmRadial.resources
+D:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.frmTradicional.resources
+D:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.Properties.Resources.resources
+D:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.GenerateResource.Cache
+D:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.exe
+D:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.pdb
+E:\DS I (usar essa)\frmCalc\frmCalc\bin\Debug\frmCalc.exe.config
+E:\DS I (usar essa)\frmCalc\frmCalc\bin\Debug\frmCalc.exe
+E:\DS I (usar essa)\frmCalc\frmCalc\bin\Debug\frmCalc.pdb
+E:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.csprojAssemblyReference.cache
+E:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.frmBotao.resources
+E:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.FormMenu.resources
+E:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.frmRadial.resources
+E:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.frmTradicional.resources
+E:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.Properties.Resources.resources
+E:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.GenerateResource.cache
+E:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.csproj.CoreCompileInputs.cache
+E:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.exe
+E:\DS I (usar essa)\frmCalc\frmCalc\obj\Debug\frmCalc.pdb
